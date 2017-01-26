@@ -480,16 +480,25 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-1 .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box6-1b .mbr-section-title,
-#msg-box6-1b .lead p {
+#msg-box7-2d .mbr-section-title,
+#msg-box7-2d .lead p {
   color: #fff;
 }
-#msg-box6-1b P {
-  text-align: left;
-  font-size: 19px;
+#msg-box7-2d H3 {
+  text-align: center;
+  font-size: 60px;
+}
+#msg-box7-2d SPAN {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+#header6-2b .mbr-section-title {
+  color: #ffffff;
+  font-size: 46px;
+}
+#header6-2b .mbr-section-text {
+  color: #ffffff;
 }
 #features6-i P {
   text-align: left;
