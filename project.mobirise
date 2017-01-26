@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 81,
+    "uniqCompNum": 82,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -166,7 +166,8 @@
               "color": "#fff"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "19px"
             }
           },
           "_tags": [
@@ -175,7 +176,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1b",
           "_params": {
-            "imageSize": "28",
+            "imageSize": "27",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -220,7 +221,7 @@
             }
           },
           "title": "BIOGRAPHY",
-          "text": "Since I entered Miami Arts Studio 6-12, a magnet school, and started to learn graphic design at a very young age I relized that this is what i wanted to do, What i want to be. I knew from the start that I wanted to work as a graphic designer. I learned photoshop and mastered many portions of it. I learned enogh to earn some money by making graphics for some friends. Later in that same class ,we made an animation project. I always watched many movies and enjoyed them especially all the efects they had making me wonder how is it possible? For a class project we had to make a flying stork droopring a child to some parents. That project was an eye oppener for me. I completely relized that this was what i was waiting for all along. Doing that animation made me see that this is my future or atleast what I hope for. From that day on I would expiriment with animations trying to make them look real or atleast move correctly. It was hard at the start but like mostly everything in life it gets easier with time.&nbsp;",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Since I entered Miami Arts Studio 6-12, a magnet school, and started to learn graphic design at a very young age I relized that this is what i wanted to do, What i want to be. I knew from the start that I wanted to work as a graphic designer. I learned photoshop and mastered many portions of it. I learned enogh to earn some money by making graphics for some friends. Later in that same class ,we made an animation project. I always watched many movies and enjoyed them especially all the efects they had making me wonder how is it possible? For a class project we had to make a flying stork droopring a child to some parents. That project was an eye oppener for me. I completely relized that this was what i was waiting for all along.....</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE FULL BIOGRAPHY</a>"
         },
         {
@@ -355,6 +356,27 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Full Biography</b><p>&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Since I entered Miami Arts Studio 6-12, a magnet school, and started to learn graphic design at a very young age I relized that this is what i wanted to do, What i want to be. I knew from the start that I wanted to work as a graphic designer. I learned photoshop and mastered many portions of it. I learned enogh to earn some money by making graphics for some friends. Later in that same class ,we made an animation project. I always watched many movies and enjoyed them especially all the efects they had making me wonder how is it possible? For a class project we had to make a flying stork droopring a child to some parents. That project was an eye oppener for me. I completely relized that this was what i was waiting for all along. Doing that animation made me see that this is my future or atleast what I hope for. From that day on I would expiriment with animations trying to make them look real or atleast move correctly. It was hard at the start but like mostly everything in life it gets easier with time.&nbsp;</p>",
+          "_styles": {
+            "B": {
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_styles": {
