@@ -133,7 +133,7 @@
             "H3": {
               "text-align": "center",
               "font-size": "60px",
-              "color": "#7c706b"
+              "color": "#000000"
             },
             "SPAN": {
               "font-family": "'Montserrat', sans-serif",
@@ -190,7 +190,7 @@
               "size": 250
             }
           },
-          "title": "ALEXANDER LOHR<br>",
+          "title": "ALEXANDER LOHR",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
