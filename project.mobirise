@@ -23,7 +23,7 @@
     "versionFirst": "3.10.5",
     "uniqCompNum": 88,
     "versionPublish": "3.11.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/g-128x89.png",
     "noImageResize": "",
     "path": "file:///E:/MobiRise",
     "screenshot": "screenshot.png"
@@ -105,14 +105,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/stick-push-121x128.png",
+              "src": "@PROJECT_PATH@/assets/images/stick-push-182x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -430,7 +430,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ddddddd-128x105.png",
+              "src": "@PROJECT_PATH@/assets/images/stick-push-128x89.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -523,7 +523,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -798,7 +798,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -920,7 +920,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1138,7 +1138,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1356,7 +1356,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1574,7 +1574,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1792,7 +1792,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -2010,7 +2010,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -2228,7 +2228,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -2446,7 +2446,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
