@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -423,6 +425,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -487,6 +490,9 @@ h6,
   text-align: center;
   font-size: 60px;
 }
+#msg-box7-2f P {
+  text-align: left;
+}
 #header6-2b .mbr-section-title {
   color: #ffffff;
   font-size: 46px;
@@ -526,11 +532,11 @@ h6,
   color: #ffffff;
 }
 #menu-7 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-7 .dropdown-item,
 #menu-7 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-7 .link:hover,
 #menu-7 .dropdown-item:hover,
