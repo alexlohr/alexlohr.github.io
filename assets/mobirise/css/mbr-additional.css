@@ -586,6 +586,9 @@ h6,
 #form1-h SMALL {
   color: #ffffff;
 }
+#gallery3-1u .mbr-gallery-item > div > span {
+  font-size: 13px;
+}
 #menu-26 .hide-buttons .nav-btn {
   display: none !important;
 }

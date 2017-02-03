@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "Illustrator.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 88,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/g-128x89.png",
     "noImageResize": "",
     "path": "file:///E:/MobiRise",
@@ -647,8 +647,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ff-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ff-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "OUTSIDE SHOWBILL",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -657,7 +657,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/inside-cover-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/inside-cover-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "INSIDE SHOWBILL",
                 "active": false
               },
               {
@@ -667,7 +667,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/m-pop-5-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/m-pop-5-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "M-POP POSTER",
                 "active": false
               },
               {
@@ -677,7 +677,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/illusion-piece-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/illusion-piece-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "ILLUSION PIECE",
                 "active": false
               },
               {
@@ -687,7 +687,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/perspective-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/perspective-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "PERSPECTIVE PIECE",
                 "active": false
               },
               {
@@ -697,7 +697,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dreams-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dreams-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "DREAMS POSTER",
                 "active": false
               },
               {
@@ -707,7 +707,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/winwood-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/winwood-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "IF WALLS COULD TALK POSTER",
                 "active": false
               },
               {
@@ -715,9 +715,29 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/banners-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/banners-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/32432-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/32432-2000x2000.jpg",
+                "caption": "PACMAN BANNER",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24324-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24324-2000x2000.jpg",
+                "caption": "STARWARS BANNER",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/retewew-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/retewew-2000x2000.jpg",
+                "caption": "STORM BANNER",
                 "active": false
               },
               {
@@ -727,7 +747,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/movie-cover-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/movie-cover-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "MOVIE COVER",
                 "active": false
               },
               {
@@ -735,9 +755,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tv-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/xcvxv-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/xcvxv-2000x2000.jpg",
+                "caption": "BLANK TV",
                 "active": false
               },
               {
@@ -745,9 +765,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/patchess-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/patchess-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/xcv-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/xcv-2000x2000.jpg",
+                "caption": "TV WITH MESSAGE",
                 "active": false
               },
               {
@@ -755,9 +775,29 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postcard-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/postcard-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/nkfjno-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nkfjno-2000x2000.jpg",
+                "caption": "ADOBE PATCHES",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/132-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/132-2000x2000.jpg",
+                "caption": "FRONT POSTCARD",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2000.jpg",
+                "caption": "BACK POSTCARD",
                 "active": false
               },
               {
@@ -767,12 +807,52 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sun-moon-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sun-moon-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "SUN AND MOON LOGO",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ddsss-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ddsss-2000x2000.jpg",
+                "caption": "COMIC BOOK PAGE 1",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsds-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsds-2000x2000.jpg",
+                "caption": "COMIC BOOK PAGE 2",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ddsdsds-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ddsdsds-2000x2000.jpg",
+                "caption": "RETRO POSTER",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsddds-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsddds-2000x2000.jpg",
+                "caption": "SOLAR SYSTEM PIECE",
+                "active": true
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#08223e",
             "filterBgColor": true,
@@ -781,7 +861,12 @@
           },
           "_anchor": "gallery3-1u",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "13px"
+            }
+          }
         },
         {
           "_tags": [
@@ -934,9 +1019,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/segfz-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/segfz-2000x2000.jpg",
+                "caption": "MDCPS LOGO 1",
                 "active": false
               },
               {
@@ -944,9 +1029,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-2-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dff-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dff-2000x2000.jpg",
+                "caption": "MDCPS LOGO 2",
                 "active": false
               },
               {
@@ -956,7 +1041,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/blueprint-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/blueprint-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "MOTOR BLUEPRINT",
                 "active": false
               },
               {
@@ -966,7 +1051,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/horse-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/horse-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "MAVERICK PIECE",
                 "active": false
               },
               {
@@ -976,7 +1061,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/doodle-googls-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/doodle-googls-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "DOODLE FOR GOOGLE PIECE",
                 "active": false
               },
               {
@@ -984,10 +1069,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faces-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/faces-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12414-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12414-2000x2000.jpg",
+                "caption": "FACE RECREATION-CHILD",
                 "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1321-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1321-2000x2000.jpg",
+                "caption": "FACE RECREATION-ADULT",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/142-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/142-2000x2000.jpg",
+                "caption": "FACE RECREATION-OLD",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -996,7 +1101,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/woman-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/woman-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "WOMAN FACE PIECE",
                 "active": false
               },
               {
@@ -1006,7 +1111,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "TATTOO PIECE",
                 "active": false
               },
               {
@@ -1016,12 +1121,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/logo-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "LOGO",
+                "active": false
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#08223e",
             "filterBgColor": true,
