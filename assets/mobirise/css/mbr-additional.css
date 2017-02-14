@@ -508,10 +508,24 @@ h6,
   font-size: 20px;
   color: #232323;
 }
+#header3-2i .mbr-section-title,
+#header3-2i .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-29 B {
   font-size: 24px;
 }
 #content1-29 P {
+  font-size: 19px;
+}
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-2g B {
+  font-size: 24px;
+}
+#content1-2g P {
   font-size: 19px;
 }
 #contacts1-2e SPAN {
