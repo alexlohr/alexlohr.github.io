@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -731,6 +731,26 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alexander-lohr-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexander-lohr-2-2000x2000.jpg",
+                "caption": "Recreation Of Artwork 2",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alexander-lohr-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexander-lohr-1-2000x2000.jpg",
+                "caption": "Recreation Of Artwork 1",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ff-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ff-2000x2000.jpg",
                 "caption": "OUTSIDE SHOWBILL",
@@ -934,7 +954,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsddds-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsddds-2000x2000.jpg",
                 "caption": "SOLAR SYSTEM PIECE",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
