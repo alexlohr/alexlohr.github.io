@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -482,17 +480,6 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box7-2f .mbr-section-title,
-#msg-box7-2f .lead p {
-  color: #fff;
-}
-#msg-box7-2f H3 {
-  text-align: center;
-  font-size: 60px;
-}
-#msg-box7-2f P {
-  text-align: left;
-}
 #header3-2i .mbr-section-title,
 #header3-2i .mbr-section-subtitle {
   text-align: center;
@@ -500,38 +487,29 @@ h6,
 #header3-2i H3 {
   color: #2969b0;
 }
-#features6-i P {
-  text-align: left;
+#msg-box7-2t .mbr-section-title,
+#msg-box7-2t .lead p {
+  color: #fff;
 }
-#features6-i H5 {
-  font-family: 'Montserrat', sans-serif;
+#msg-box7-2t H3 {
+  text-align: center;
+  font-size: 60px;
+}
+#msg-box7-2t P {
+  text-align: left;
   font-size: 20px;
-  color: #232323;
 }
-#header3-2i .mbr-section-title,
-#header3-2i .mbr-section-subtitle {
+#content8-2u .mbr-section-title,
+#content8-2u p {
+  text-align: right;
+  color: #fff;
+}
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
   text-align: center;
 }
-#content1-29 B {
-  font-size: 24px;
-}
-#content1-29 P {
-  font-size: 19px;
-  text-align: left;
-}
-#content1-29 H2 {
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
-}
-#header3-2h .mbr-section-title,
-#header3-2h .mbr-section-subtitle {
-  text-align: center;
-}
-#content1-2g B {
-  font-size: 24px;
-}
-#content1-2g P {
-  font-size: 19px;
+#gallery3-33 .mbr-gallery-item > div > span {
+  font-size: 13px;
 }
 #contacts4-2p P {
   color: #ffffff;
@@ -1261,6 +1239,8 @@ h6,
   font-size: 19px;
 }
 
+
+
 #menu-2g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1323,29 +1303,56 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box7-2i .mbr-section-title,
-#msg-box7-2i .lead p {
+#msg-box7-2w .mbr-section-title,
+#msg-box7-2w .lead p {
   color: #fff;
 }
-#msg-box7-2i H3 {
+#msg-box7-2w H3 {
   text-align: center;
   font-size: 60px;
 }
-#msg-box7-2i P {
+#msg-box7-2w P {
   text-align: left;
-  font-size: 20px;
 }
-#content8-2n .mbr-section-title,
-#content8-2n p {
-  text-align: right;
-  color: #fff;
-}
-#header3-2l .mbr-section-title,
-#header3-2l .mbr-section-subtitle {
+#header3-2x .mbr-section-title,
+#header3-2x .mbr-section-subtitle {
   text-align: center;
 }
-#gallery3-2j .mbr-gallery-item > div > span {
-  font-size: 13px;
+#header3-2x H3 {
+  color: #2969b0;
+}
+#features6-2y P {
+  text-align: left;
+}
+#features6-2y H5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #232323;
+}
+#header3-30 .mbr-section-title,
+#header3-30 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-2z B {
+  font-size: 24px;
+}
+#content1-2z P {
+  font-size: 19px;
+  text-align: left;
+}
+#content1-2z H2 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-31 .mbr-section-title,
+#header3-31 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-32 B {
+  font-size: 24px;
+}
+#content1-32 P {
+  font-size: 19px;
 }
 #contacts4-2p P {
   color: #ffffff;
