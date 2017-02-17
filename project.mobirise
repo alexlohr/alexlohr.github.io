@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "PowerPoint.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -334,8 +334,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -400,7 +400,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -689,8 +689,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -755,7 +755,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         },
         {
           "_styles": {
@@ -1016,8 +1016,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1082,7 +1082,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         },
         {
           "_styles": {
@@ -1323,8 +1323,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1481,7 +1481,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -1608,8 +1608,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1766,7 +1766,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -1985,8 +1985,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2051,7 +2051,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -2178,8 +2178,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2336,7 +2336,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -2463,8 +2463,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2621,7 +2621,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -2840,8 +2840,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2906,7 +2906,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -2970,8 +2970,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3128,7 +3128,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -3298,8 +3298,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3364,7 +3364,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         }
       ]
     },
@@ -3687,7 +3687,7 @@
             "paddingBottom": "2",
             "bgColor": "#ddf8ff"
           },
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;ACHIVEMENTS</b><p>&nbsp; &nbsp;&nbsp;</p><p>Most of my current achivements in the digital design area have been assisting to the \"INOVATE CTE CHALLENGE\" where a group of kids including me copeted against each other to create the companys new logo. I also assisted in creating the new logo for \"MDCPS\" (a school system). I competed in an animation competition for microsoft in which me and some companions had to make a stork animation. Apart from that I have helped to develop many of the digital components for my dads company.</p>"
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;ACHIEVEMENTS</b><p>&nbsp; &nbsp;&nbsp;</p><p>Most of my current achivements in the digital design area have been assisting to the \"INOVATE CTE CHALLENGE\" where a group of kids including me copeted against each other to create the companys new logo. I also assisted in creating the new logo for \"MDCPS\" (a school system). I competed in an animation competition for microsoft in which me and some companions had to make a stork animation. Apart from that I have helped to develop many of the digital components for my dads company.</p>"
         },
         {
           "_tags": [
@@ -3706,8 +3706,8 @@
           },
           "_anchor": "contacts4-2p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3772,7 +3772,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "©Copyright2017 Alexander Lohr"
+          "meta": "©Copyright 2017 Alexander Lohr"
         },
         {
           "_styles": {
