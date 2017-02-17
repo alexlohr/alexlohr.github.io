@@ -506,6 +506,9 @@ h6,
 #header3-2v .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2v H3 {
+  color: #ffffff;
+}
 #gallery3-33 .mbr-gallery-item > div > span {
   font-size: 13px;
 }
