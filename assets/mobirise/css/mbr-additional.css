@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -487,17 +490,12 @@ h6,
 #header3-2i H3 {
   color: #2969b0;
 }
-#msg-box7-2t .mbr-section-title,
-#msg-box7-2t .lead p {
-  color: #fff;
+#header5-2g .mbr-section-title {
+  color: #ffffff;
 }
-#msg-box7-2t H3 {
-  text-align: center;
-  font-size: 60px;
-}
-#msg-box7-2t P {
-  text-align: left;
-  font-size: 20px;
+#header5-2g .mbr-section-lead {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #content8-2u .mbr-section-title,
 #content8-2u p {
@@ -519,6 +517,15 @@ h6,
   color: #ffffff;
   font-size: 19px;
 }
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2h SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #gallery3-1u .mbr-gallery-item > div > span {
   font-size: 13px;
@@ -593,7 +600,19 @@ h6,
   color: #ffffff;
   font-size: 19px;
 }
+#header3-2j .mbr-section-title,
+#header3-2j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2j SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
 
+
+#gallery3-1v .mbr-gallery-item > div > span {
+  font-size: 13px;
+}
 #contacts4-2p P {
   color: #ffffff;
   font-size: 14px;
@@ -664,6 +683,15 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2k .mbr-section-title,
+#header3-2k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2k SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #msg-box4-2g H3 {
   color: #ffffff;
@@ -741,6 +769,15 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2l .mbr-section-title,
+#header3-2l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2l SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #contacts4-2p P {
   color: #ffffff;
@@ -812,6 +849,15 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2m .mbr-section-title,
+#header3-2m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2m SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #menu-2g .hide-buttons .nav-btn {
   display: none !important;
@@ -883,6 +929,15 @@ h6,
   color: #ffffff;
   font-size: 19px;
 }
+#header3-2n .mbr-section-title,
+#header3-2n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2n SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #contacts4-2p P {
   color: #ffffff;
@@ -954,6 +1009,15 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2o .mbr-section-title,
+#header3-2o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2o SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #contacts4-2p P {
   color: #ffffff;
@@ -1025,6 +1089,15 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2q .mbr-section-title,
+#header3-2q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2q SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #menu-2g .hide-buttons .nav-btn {
   display: none !important;
@@ -1096,6 +1169,15 @@ h6,
   color: #ffffff;
   font-size: 19px;
 }
+#header3-2r .mbr-section-title,
+#header3-2r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2r SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #contacts4-2p P {
   color: #ffffff;
@@ -1167,6 +1249,15 @@ h6,
 #menu-2g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2s .mbr-section-title,
+#header3-2s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2s SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #menu-2g .hide-buttons .nav-btn {
   display: none !important;
@@ -1238,6 +1329,15 @@ h6,
   color: #ffffff;
   font-size: 19px;
 }
+#header3-2p .mbr-section-title,
+#header3-2p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2p SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 
 
@@ -1361,4 +1461,12 @@ h6,
 #contacts4-2p STRONG {
   color: #ffffff;
   font-size: 19px;
+}
+#header3-2i .mbr-section-title,
+#header3-2i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2i SMALL {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
