@@ -428,6 +428,10 @@ h6,
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
+#header3-2i .mbr-section-title,
+#header3-2i .mbr-section-subtitle {
+  text-align: center;
+}
 #content8-2u .mbr-section-title,
 #content8-2u p {
   text-align: right;
@@ -442,6 +446,18 @@ h6,
 }
 #gallery3-33 .mbr-gallery-item > div > span {
   font-size: 13px;
+}
+#header3-2k .mbr-section-title,
+#header3-2k .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-2h .mbr-section-title,
+#social-buttons4-2h .btn-social {
+  color: #fff;
+}
+#header3-2l .mbr-section-title,
+#header3-2l .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts4-2p P {
   color: #ffffff;
