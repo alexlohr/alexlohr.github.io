@@ -134,7 +134,7 @@
             "showCaption": true
           },
           "title": "Youtube Video<br><br>",
-          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You can see my youtube</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">channel by&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">clicking the youtube</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">icon in the bottom of this page.</span></p>"
+          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You can see my youtube&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">channel by&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">clicking the youtube&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">icon in the bottom of this page.</span></p>"
         },
         {
           "_styles": {
