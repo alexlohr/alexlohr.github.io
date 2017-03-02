@@ -530,10 +530,9 @@ h6,
 }
 
 
-#slider3-2o H2 {
-  color: #000000;
-  font-size: 48px;
-  text-align: center;
+#slider2-2r .mbr-section-title,
+#slider2-2r .mbr-section-lead {
+  color: #fff;
 }
 #gallery3-1u .mbr-gallery-item > div > span {
   font-size: 13px;
