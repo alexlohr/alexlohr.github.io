@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -427,6 +428,22 @@ h6,
 #header5-2g .mbr-section-lead {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+}
+#header3-2i .mbr-section-title,
+#header3-2i .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box3-2k .mbr-section-title,
+#msg-box3-2k p {
+  color: #000;
+}
+#msg-box3-2k .btn {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-2j .mbr-section-title,
+#header3-2j .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-2v .mbr-section-title,
 #header3-2v .mbr-section-subtitle {
@@ -1358,16 +1375,6 @@ h6,
 }
 #msg-box7-2w P {
   text-align: left;
-}
-#header3-2h .mbr-section-title,
-#header3-2h .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box4-2h H3 {
-  color: #ffffff;
-}
-#msg-box4-2h P {
-  color: #ffffff;
 }
 #header3-2i .mbr-section-title,
 #header3-2i .mbr-section-subtitle {
