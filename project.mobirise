@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 91,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/g-128x89.png",
     "noImageResize": "",
     "path": "file:///E:/MobiRise",
@@ -1653,7 +1653,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/dPlQAWf7JKs",
+              "src": "https://youtu.be/YdhuYlKUb-E",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
