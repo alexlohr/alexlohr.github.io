@@ -1694,7 +1694,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
